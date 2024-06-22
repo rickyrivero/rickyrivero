@@ -1,7 +1,7 @@
 ## Hi! Nice to see you. 👋
 
 Welcome to my page!
-I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm currently a data analyst and java developer
+I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm currently a data analyst and java developer. 
 
 🔭 I’m looking to collaborate on Rest API and CLI projects
 
@@ -36,6 +36,8 @@ I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm curr
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## Profile Stats
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyrivero&show_icons=true&theme=dark)
 
