@@ -1,7 +1,7 @@
 ## Hi! Nice to see you. 👋
 
 Welcome to my page!
-I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm currently a data analyst and java developer. 
+I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm currently a data analyst and java developer. At the moment, I am in the process of transitioning into a cybersecurity role, complementing my technical expertise with computer security knowledge acquired through academic studies and certifications. My goal is to develop myself in the field of pentesting.
 
 🔭 I’m looking to collaborate on Rest API and CLI projects
 
