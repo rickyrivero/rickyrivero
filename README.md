@@ -41,9 +41,6 @@ I'm Ricardo, Backend freelance developer from  Buenos Aires, Argentina. I'm curr
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### IDEs
-
-
 ## Profile Stats
 
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyrivero&show_icons=true&theme=dark)
