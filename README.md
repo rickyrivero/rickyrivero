@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=680&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear...)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=680&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear..." alt="Typing SVG" />
+</p>
 
 <h2 align="left">
   Hi! Nice to see you.
